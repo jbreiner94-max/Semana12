@@ -1,0 +1,14 @@
+Modelo de datos
+
+Entidad: Petición
+- Título
+- Descripción
+- Fecha
+- Estado
+
+Entidad: Ciudadano
+- Nombre
+- Correo
+
+Relación:
+Un ciudadano puede crear una o varias peticiones.
