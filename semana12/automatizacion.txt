@@ -1,0 +1,14 @@
+Automatización
+
+La automatización permite que una plataforma realice tareas de forma automática, sin intervención manual.
+
+Ejemplos:
+- Enviar una notificación cuando se crea una petición.
+- Generar un documento PDF automáticamente.
+- Actualizar el estado de una petición.
+- Enviar un mensaje al administrador cuando una petición recibe suficientes apoyos.
+
+Beneficios:
+- Ahorra tiempo.
+- Reduce errores.
+- Hace el proceso más rápido y eficiente.
